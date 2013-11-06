@@ -13,6 +13,7 @@ Program Descrption:
 
 Running:
   python2 Cubix_Rube.py
+  ( Run the Cubix_Rube.py File with Python 2.6 or 2.7 )
 
 Use:
   The Program Will Show Views of the Up, Front, Back,
