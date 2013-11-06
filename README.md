@@ -38,15 +38,17 @@ Use:
     s - Equivalent to S Move ( Rotates the Layer Between F and B 1/4 Turn Clockwise as if Facing the Front Face )
 
 
-  To do the Opposite of a Move ( Counter-Clockwise Version, Hit <shift> then do the Move )
-  NOTE: Currently, Holding <shift> to Do Multiple Counter-Clockwise Moves Does not Work,
-    -- Only the Next Move After Pressing <shift> will be Opposite Normal
-    Ex. <shift> then r - Equivalent to R' ( Turns Right Face Counter-Clockwise )
+  To do the Opposite of a Move ( Counter-Clockwise Version, Hold <shift> then do the Move )
+  NOTE: You can also Hold <shift> to do Multiple Counter-Clockwise Turns in a Row
+    Ex. <shift> + r - Equivalent to R' ( Turns Right Face Counter-Clockwise )
 
   To Turn 2 Layers ( i.e. the Given Layer and the Closest One Parallel to it )
-  NOTE: Currently, Holding <ctrl> to Do Multiple 2-Layer Moves Does not Work,
-    -- Only the Next Move After Pressing <ctrl> will be Double Layer
-  Hit the <ctrl> key First then the desired key, one of u,d,l,r,f,b
+  Hold <ctrl> then do the Move -- This Only Works for u, d, l, r, f and b
+  NOTE: You can Hold <ctrl> to do Multiple 2 Layer Turns in a Row
+    Ex. <ctrl> + r - Equivalent to r ( Turns Right Face and Closest Parallel Face Clockwise )
+
+  To Turn 2 Layers Counter-Clockwise, Hold <ctrl> and <shift> then do the Move
+  This only works for u, d, l, r, f and b
 
 Enjoy,
 jedi453
